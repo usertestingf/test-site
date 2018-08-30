@@ -7,3 +7,5 @@ fields:
   label: Tags
   name: tags
   description: tags use to help
+pages:
+- content/support/my-page-1.md
