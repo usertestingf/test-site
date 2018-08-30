@@ -8,4 +8,5 @@ fields:
   name: tags
   description: tags use to help
 pages:
+- content/support/my-page-2.md
 - content/support/my-page-1.md
