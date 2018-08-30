@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "docdock"
 DefaultContentLanguage = "en"
 
 editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
