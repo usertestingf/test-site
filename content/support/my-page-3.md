@@ -11,5 +11,4 @@ title = "My Page 3"
 
 1. hi
 2. there
-3. this
-4. is cool
+3. is cool
